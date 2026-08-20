@@ -1,8 +1,8 @@
 # Hi, I'm Diadieu 👋
 
-Software engineering student (2nd year, ESGI, Paris) — backend-leaning full-stack, currently building with Go, Python, and Docker.
+Software engineering student (3rdyear, ESGI, Paris) — backend-leaning full-stack, currently building with Go, Python, and Docker.
 
-- 🎓 ESGI — 2nd year software engineering
+- 🎓 ESGI — 3rd year software engineering
 - 🛠️ Main stack: Go · Python · SQL · Docker · C · JavaScript
 - 📫 [diadieu.douc@gmail.com](mailto:diadieu.douc@gmail.com) · [LinkedIn](https://www.linkedin.com/in/diadieu-doucoure-b6866a1b2/)
 
@@ -24,7 +24,7 @@ Software engineering student (2nd year, ESGI, Paris) — backend-leaning full-st
 
 ## Version française
 
-Étudiant en développement logiciel (2ème année, ESGI, Paris) — full-stack à dominante backend, actuellement sur Go, Python et Docker.
+Étudiant en développement logiciel (3ème année, ESGI, Paris) — full-stack à dominante backend, actuellement sur Go, Python et Docker.
 
 - 🎓 ESGI — 2A développement logiciel
 - 🛠️ Stack principale : Go · Python · SQL · Docker · C · JavaScript
