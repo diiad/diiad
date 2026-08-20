@@ -1,6 +1,6 @@
 # Hi, I'm Diadieu 👋
 
-Software engineering student (3rdyear, ESGI, Paris) — backend-leaning full-stack, currently building with Go, Python, and Docker.
+Software engineering student (3rd year, ESGI, Paris) — backend-leaning full-stack, currently building with Go, Python, and Docker.
 
 - 🎓 ESGI — 3rd year software engineering
 - 🛠️ Main stack: Go · Python · SQL · Docker · C · JavaScript
@@ -14,6 +14,7 @@ Software engineering student (3rdyear, ESGI, Paris) — backend-leaning full-sta
 | [it-inventory-api](https://github.com/diiad/it-inventory-api) | REST API for IT asset management | Go · PostgreSQL |
 | [nocturneplb](https://github.com/diiad/nocturneplb) | Event/season & member payment management app, built during an internship | PHP · MySQL |
 | [PROJET_C_MINI-RPG](https://github.com/diiad/PROJET_C_MINI-RPG) | Turn-based mini RPG — team project (3 people) | C · SDL2 |
+| [buynbid](https://github.com/diiad/buynbid) | Online auction & marketplace platform — team project | PHP · MySQL · Stripe |
 
 ## Other repos
 
@@ -26,7 +27,7 @@ Software engineering student (3rdyear, ESGI, Paris) — backend-leaning full-sta
 
 Étudiant en développement logiciel (3ème année, ESGI, Paris) — full-stack à dominante backend, actuellement sur Go, Python et Docker.
 
-- 🎓 ESGI — 2A développement logiciel
+- 🎓 ESGI — 3A développement logiciel
 - 🛠️ Stack principale : Go · Python · SQL · Docker · C · JavaScript
 - 📫 [diadieu.douc@gmail.com](mailto:diadieu.douc@gmail.com) · [LinkedIn](https://www.linkedin.com/in/diadieu-doucoure-b6866a1b2/)
 
