@@ -25,7 +25,7 @@ Software engineering student (3rd year, ESGI, Paris) — backend-leaning full-st
 
 ## Version française
 
-Étudiant en développement logiciel (3ème année, ESGI, Paris) — full-stack à dominante backend, actuellement sur Go, Python et Docker.
+Étudiant en développement logiciel (3ème année, ESGI, Paris) — full-stack à dominante backend, actuellement sur Rust, Go, Python, Java, et Docker.
 
 - 🎓 ESGI — 3A développement logiciel
 - 🛠️ Stack principale : Python · Rust · Go · SQL · Docker · C · Java
