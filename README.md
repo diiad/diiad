@@ -28,7 +28,7 @@ Software engineering student (3rd year, ESGI, Paris) — backend-leaning full-st
 Étudiant en développement logiciel (3ème année, ESGI, Paris) — full-stack à dominante backend, actuellement sur Go, Python et Docker.
 
 - 🎓 ESGI — 3A développement logiciel
-- 🛠️ Stack principale : Go · Python · SQL · Docker · C · JavaScript
+- 🛠️ Stack principale : Python · Rust · Go · SQL · Docker · C · Java
 - 📫 [diadieu.douc@gmail.com](mailto:diadieu.douc@gmail.com) · [LinkedIn](https://www.linkedin.com/in/diadieu-doucoure-b6866a1b2/)
 
 ### Projets phares
